@@ -67,12 +67,12 @@ style="color:red;">
 </p>
  <table border=1>
   <tr>
-    <td> <img src="image/5.jpg" width="400"></td>
-    <td> <img src="image/6.jpg" width="400"></td>
+    <td> <img src="5.jpg" width="400"></td>
+    <td> <img src="6.jpg" width="400"></td>
   </tr>
 <tr>
-    <td> <img src="image/1.jpg" width="400"></td>
-    <td> <img src="image/2.jpg" width="400"></td>
+    <td> <img src="1.jpg" width="400"></td>
+    <td> <img src="2.jpg" width="400"></td>
   </tr>
 <tr>
     <td> <img src="image/3.jpg" width="400"></td>
