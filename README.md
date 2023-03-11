@@ -75,8 +75,8 @@ style="color:red;">
     <td> <img src="2.jpg" width="400"></td>
   </tr>
 <tr>
-    <td> <img src="image/3.jpg" width="400"></td>
-    <td> <img src="image/4.jpg" width="400"></td>
+    <td> <img src="3.jpg" width="400"></td>
+    <td> <img src="4.jpg" width="400"></td>
   </tr>
 </table>
 
