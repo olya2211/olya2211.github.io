@@ -1,4 +1,3 @@
-
 <!DPCTYPE html>
 <html>
 <script>
@@ -10,7 +9,6 @@ prompt("Тебе интересно узнать информацию обо м�
 <title>Атрибут title</title>
 <h2><p title="Пожалуйста, оставайся на этой странице, если хочешь узнать про меня!">Наведи курсор на меня!</p></h2>
 <link rel="stylesheet" href="style.css">
-
 <script>  
 setInterval(function () {
     var now = new Date();
@@ -24,9 +22,6 @@ style="color:red;">
 </span>
 </body>
 </head>
-
-
-
 <body bgcolor=#E0FFFF>
  <h1> Страница студентки Глущенко Ольги, гр.1406б
  </h1>
@@ -82,8 +77,6 @@ style="color:red;">
     <td> <img src="image/4.jpg" width="400"></td>
   </tr>
 </table>
-
 <a href="https://vk.com/"> мой профиль в vk </a>
-
  </body>
 </html>
