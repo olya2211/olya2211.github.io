@@ -24,9 +24,6 @@ style="color:red;">
 </span>
 </body>
 </head>
-
-
-
 <body bgcolor=#E0FFFF>
  <h1> Страница студентки Глущенко Ольги, гр.1406б
  </h1>
